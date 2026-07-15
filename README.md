@@ -51,9 +51,9 @@ I'm a passionate Full-Stack Developer who enjoys building modern web application
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=separateprince-hue&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=separateprince-hue&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=separateprince-hue&theme=github_dark" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=separateprince-hue&theme=github_dark" />
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=separateprince-hue&theme=github_dark" />
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=separateprince-hue&theme=github_dark" />
 </p>
 
 # 🌐 Connect With Me
