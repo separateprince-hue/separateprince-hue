@@ -44,20 +44,6 @@ I'm a passionate Full-Stack Developer who enjoys building modern web application
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=separateprince_hue&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=separateprince_hue&theme=github_dark" />
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=separateprince_hue&theme=github_dark" />
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=separateprince_hue&theme=github_dark" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 - 🌍 Portfolio: https://mphano-console.vercel.app
